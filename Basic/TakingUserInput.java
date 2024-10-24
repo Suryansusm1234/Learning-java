@@ -8,5 +8,6 @@ public class TakingUserInput {
         int num2 = sc.nextInt();
         int sum = num1+num2;
         System.out.println("The sum of Two number was found to be:-"+sum);
+        sc.close();
     }
 }
