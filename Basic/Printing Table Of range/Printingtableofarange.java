@@ -19,5 +19,6 @@ public class Printingtableofarange {
         System.out.print("\n");
         i +=3;
     }
+    kb.close();
 }
 }
